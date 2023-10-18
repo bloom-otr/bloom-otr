@@ -1,0 +1,86 @@
+[
+    {
+        "name": "DJ Charlee",
+        "role": "dj",
+        "can_book": true,
+        "bio": "Aute sit et veniam ex fugiat tempor. Laboris fugiat laborum deserunt in occaecat id. Sunt dolor commodo do aliquip mollit in occaecat veniam incididunt ad mollit. Exercitation aute excepteur non in non et laboris officia. Occaecat fugiat tempor nostrud elit ea excepteur excepteur laborum. Deserunt elit eu consectetur non mollit anim sit excepteur ad dolor voluptate ullamco laborum eu. Incididunt veniam incididunt quis exercitation do laborum commodo qui eu enim minim.",
+        "profile_image": "images/dj_charlee.jpg"
+    },
+    {
+        "name": "DJ Xanati",
+        "role": "dj",
+        "can_book": true,
+        "bio": "Ut nisi anim cupidatat ut reprehenderit id laboris nulla ex ad adipisicing occaecat excepteur magna. Ut dolor cillum eu est incididunt sunt veniam ut sunt. Ipsum consequat duis proident anim exercitation nostrud magna adipisicing laboris non. Nostrud fugiat ut deserunt cupidatat excepteur culpa incididunt reprehenderit ad deserunt cupidatat.",
+        "profile_image": "images/dj_xanati.jpg"
+    },
+    {
+        "name": "Jessica Dimon",
+        "role": "queen",
+        "can_book": true,
+        "bio": "The Entertainment Director of Bloom OTR. Wednesday thru Sunday morning brunches. Known as \"The It Girl of Cincinnati\". Jessica is a former Miss Cincinnati Entertainer of the Year. Miss Cincinnati America, Miss Kentucky Derby, Miss Dock Night Club as well as many others. Featured on RuPaul's Drag Race. Known for her big blonde hair and big personality. Jessica is always the life of the party.",
+        "profile_image": "images/jessica_dimon.jpg"
+    },
+    {
+        "name": "Trinity K. Bonet",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Anim sint consequat ex fugiat reprehenderit ex nostrud. Cillum do commodo aliqua consequat voluptate aliquip ad enim culpa tempor occaecat ea. Proident nostrud duis voluptate aliquip in enim est est ipsum. Officia minim ex veniam culpa Lorem tempor dolor tempor consequat aute. Eu reprehenderit reprehenderit ex magna. Voluptate officia adipisicing reprehenderit velit elit incididunt est adipisicing cupidatat reprehenderit eiusmod consectetur ullamco.",
+        "profile_image": "images/trinity_k_bonet.jpg"
+    },
+    {
+        "name": "Kora Sline",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Kora gives you everything from camp looks to 80's rock star realness. With a heart of gold, you'll fall in love with her energy and creative touch. A former cast member of The Cabaret in Cincinnati and currently on cast at Bloom OTR, you can find this entertainer all over the tri-state area. Kora also has experience hosting and creating her own shows, including an amateur drag competition that ran for 2 years called The Chop. In her spare time Kora loves to style wigs and create costumes. Catch Kora performing with Hard Candy Productions, as well as Le Moo Drag Brunch in Louisville monthly. With over 25 years of experience in the performance arts from theatre, dance, color guard and vocal performance, this performer is the total package!",
+        "cover_image": "images/kora_sline.jpg"
+    },
+    {
+        "name": "Jessica Marie Jones",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Tempor enim ex est cillum sunt duis mollit veniam duis fugiat. Sunt nulla reprehenderit in magna ipsum cupidatat exercitation duis adipisicing non id deserunt reprehenderit sunt. Non dolor laborum nisi eu culpa sunt consequat. Qui amet dolore ad non. In et eiusmod anim et.",
+        "cover_image": "images/jessica_marie_jones.jpg"
+    },
+    {
+        "name": "Chasity Marie",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Do mollit duis fugiat occaecat. Pariatur dolore proident nisi adipisicing deserunt aliqua elit est minim officia aliqua. Do nulla adipisicing sunt eiusmod proident sint cupidatat. Mollit qui eiusmod proident adipisicing exercitation. Reprehenderit incididunt eiusmod nulla sunt sit sint ex anim consectetur deserunt culpa id. Esse esse anim excepteur ad. Sit ullamco est ullamco id.",
+        "cover_image": "images/chasity_marie.jpg"
+    },
+    {
+        "name": "Nichelle Kartier",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Nulla sit aliqua magna ea qui do amet excepteur. Quis occaecat cupidatat eiusmod sint mollit commodo irure irure proident reprehenderit proident reprehenderit minim commodo. Ullamco laborum adipisicing aliquip ullamco tempor aliquip ipsum quis Lorem culpa minim amet exercitation. Consectetur ex veniam non do non laborum aliqua mollit non do ullamco anim excepteur Lorem. Fugiat officia labore dolore exercitation ipsum duis enim pariatur.",
+        "cover_image": "images/nichelle_kartier.jpg"
+    },
+    {
+        "name": "Nala Jones",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Laborum sunt consectetur eu consectetur eu Lorem culpa Lorem nostrud officia velit dolor in sit. Tempor eiusmod ipsum veniam adipisicing amet enim ullamco amet deserunt ullamco ex commodo cillum. Tempor exercitation quis do incididunt sunt cillum ea. Nostrud nulla culpa enim sit pariatur cupidatat consectetur pariatur. Ad voluptate non ullamco sint ad commodo tempor tempor ipsum tempor cupidatat velit. Tempor ullamco reprehenderit irure enim in. Id ea amet laboris commodo in culpa.",
+        "cover_image": "images/nala_jones.jpg"
+    },
+    {
+        "name": "Sasha D'Vich",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Labore veniam nisi tempor laborum esse culpa. Commodo officia dolor dolore labore sit. Excepteur ex nostrud reprehenderit ea. Dolor officia duis esse reprehenderit ea velit magna ad ex non pariatur reprehenderit est.",
+        "cover_image": "images/sasha_d_vich.jpg"
+    },
+    {
+        "name": "Jossie G Queen",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Duis do incididunt laboris officia quis ut esse officia minim cillum fugiat voluptate in excepteur. Proident incididunt enim dolore et exercitation minim proident. Adipisicing reprehenderit minim esse elit laborum adipisicing sit enim aliquip consequat labore pariatur. Nostrud et nulla esse irure laborum ut. Consequat magna non sit deserunt occaecat Lorem minim. Eiusmod voluptate nisi laborum mollit laboris incididunt occaecat veniam sint.",
+        "cover_image": "images/jossie_g_queen.jpg"
+    },
+    {
+        "name": "Amaya Sexton",
+        "role": "queen",
+        "can_book": false,
+        "bio": "Tempor sunt sunt et Lorem consequat do ea esse adipisicing excepteur nostrud culpa. Tempor ea aute aute amet commodo aliqua duis magna ut minim eiusmod mollit. Voluptate quis ea velit officia tempor aliqua ut consequat. Nulla eu ex culpa duis labore anim nostrud ea nulla quis aliqua occaecat tempor. Occaecat elit nisi nostrud in ea exercitation enim.",
+        "cover_image": "images/amaya_sexton.jpg"
+    }
+]
