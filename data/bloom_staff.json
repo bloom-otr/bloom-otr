@@ -82,5 +82,19 @@
         "can_book": false,
         "bio": "Tempor sunt sunt et Lorem consequat do ea esse adipisicing excepteur nostrud culpa. Tempor ea aute aute amet commodo aliqua duis magna ut minim eiusmod mollit. Voluptate quis ea velit officia tempor aliqua ut consequat. Nulla eu ex culpa duis labore anim nostrud ea nulla quis aliqua occaecat tempor. Occaecat elit nisi nostrud in ea exercitation enim.",
         "profile_image": "images/amaya_sexton.jpg"
+    },
+    {
+        "name": "Evelyn Everything",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Occaecat sint tempor laborum ea velit fugiat. Amet anim irure reprehenderit excepteur aliqua mollit duis dolore sint irure reprehenderit sunt do amet. Quis enim sit labore sit sint mollit amet cupidatat irure elit enim sit eu occaecat. Magna deserunt anim cillum sint consequat incididunt. In pariatur fugiat dolore est consequat minim cupidatat fugiat consequat.",
+        "profile_image": "images/evelyn_is_everything.jpg"
+    },
+    {
+        "name": "April Aries",
+        "role": "queen",
+        "can_book": true,
+        "bio": "Ullamco veniam est esse tempor. Labore ut eiusmod aliqua minim do velit in eu in. Adipisicing in veniam elit dolor labore elit magna Lorem. Dolore id anim ullamco occaecat consequat tempor excepteur irure amet nisi. Eu est minim sit non consequat non esse anim incididunt nulla Lorem reprehenderit tempor enim. Tempor duis deserunt sit Lorem elit sit proident non ad occaecat aliqua ipsum.",
+        "profile_image": "images/april_tea_aries.jpg"
     }
 ]
